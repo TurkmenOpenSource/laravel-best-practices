@@ -44,7 +44,7 @@ Siz belki  [ ulanyşda bolan Laravel programmalara mysallary](https://github.com
 
 [Other good practices](#other-good-practices)
 
-### **Single responsibility principle**
+### **Ýeke jogapkärçilik düzgüni(Single responsibility principle)**
 
 A class and a method should have only one responsibility.
 
